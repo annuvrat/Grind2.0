@@ -1,5 +1,4 @@
-s = "leetcode"
-
+s=[4,1,2,1,2]
 
 def firstUniqChar(s):
   counts = {}
